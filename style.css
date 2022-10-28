@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: caveat !important;
+  text-align: center;
+}
+body {
+  background: #123;
+}
+.card {
+  width: 300px;
+  height: 100px;
+  float: left;
+  margin-right: 5px;
+}
+.button {
+  background: rgba(255, 0, 0, 0.6);
+  padding: 15px 9px;
+  width: fit-content !important;
+  height: fit-content !important;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+}
+.name {
+  border: 1px solid black;
+  padding: 15px 25px;
+  text-align: center;
+  background: white;
+}
+.def {
+  border: 1px solid black;
+  padding: 15px 25px;
+  text-align: center;
+  background: url('https://i.pinimg.com/736x/18/df/44/18df441519c9adc7c9d835a33481cb1c.jpg');
+}
+.form-input {
+  padding: 5px;
+  font-family: caveat;
+  background: rgba(100, 30, 255, 0.25);
+  border: none;
+  color: white;
+  width: 250px;
+  height: 40px;
+  text-align: center;
+  font-size: 14px;
+}
+.form-button {
+  padding: 5px;
+  font-family: caveat;
+  background: rgba(30, 255, 100, 0.25);
+  border: none;
+  width: 250px;
+  height: 40px;
+  font-size: 24px;
+  color: rgba(30, 255, 100, 0.25);
+  text-shadow: 0 0 2px #fff;
+  border-radius: 2px;
+}
