@@ -2,7 +2,7 @@
 
 Flash-Stud is a JavaScript-powered software that allows students to easily create flashcards online, for them to study.
 
-Github Repository: [https://github.com](https://github.com)
+Github Repository: [https://github.com/DarkShadowGithubOfficial/Flash-Stud](https://github.com/DarkShadowGithubOfficial/Flash-Stud)
 
 ### Tutorial and How-To
 
